@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: yellow;
 }
 
 h1 {
@@ -52,7 +52,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
 }
 
 a {
@@ -61,7 +61,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: underline overline;
 }
 
 @media only screen and (max-width: 1042px) {
